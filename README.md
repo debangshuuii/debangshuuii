@@ -128,7 +128,7 @@
      alt="Instagram">
 </a>
 
-<a href="mailto:debangshu.demo@gmail.com">
+<a href="mailto:tumpasinha32@gmail.com">
 <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white"
      alt="Email">
 </a>
@@ -136,7 +136,7 @@
 </p>
 
 <p align="center">
-  <i>📧 Replace debangshu.demo@gmail.com with your real email later.</i>
+  <i>📧  Always ready to work and feel free to contact.</i>
 </p>
 
 <br>
