@@ -148,14 +148,14 @@
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF3B30&icon_color=FF3B30&text_color=FFFFFF&border_color=8B0000"
+  src="https://github-readme-stats.vercel.app/api?username=debangshuuii&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF3B30&icon_color=FF3B30&text_color=FFFFFF&border_color=8B0000"
   alt="GitHub Statistics"
 />
 
 <br><br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF3B30&text_color=FFFFFF&border_color=8B0000"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=debangshuuii&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF3B30&text_color=FFFFFF&border_color=8B0000"
   alt="Top Languages"
 />
 
