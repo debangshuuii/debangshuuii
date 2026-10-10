@@ -27,20 +27,38 @@
 
 </div>
 
+<!-- ================= ABOUT ME ================= -->
+
 <div align="center">
 
 <h2>🚀 About Me</h2>
 
 <p>
-  🎓 I'm <b>Debangshu Sinha</b>, a new web developer learning and experimenting with modern frontend development.
-  <br><br>
-  🌱 Currently learning <b>JavaScript, React, Tailwind CSS & modern UI development</b>
-  <br><br>
-  🎨 Exploring <b>UI/UX design and Blender 3D animations</b>
-  <br><br>
-  💡 I enjoy creating <b>interactive, clean and visually interesting interfaces</b>
-  <br><br>
-  🔥 Currently improving my skills one project at a time.
+  Hey there! I'm <b>Debangshu Sinha</b> — a passionate <b>Frontend Developer &amp; Creative Technologist</b> dedicated to crafting fast, responsive, and visually captivating digital products.
+</p>
+
+<p>
+  💡 <b>What I Do:</b> I bridge the gap between engineering and design. From architecting scalable web applications with <b>TypeScript, React &amp; Tailwind CSS</b> to designing high-fidelity prototypes in <b>Figma</b> and experimenting with <b>Blender 3D</b>, I focus on building software that feels alive.
+</p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="left">
+      <b>🛠️ Project Highlights &amp; Experience:</b><br><br>
+      • 🚀 <b>Production-Ready Apps:</b> Built and deployed full-featured web solutions like <b>QR-RAKSHA</b>, <b>GhostTRACE</b>, and <b>Sahay</b>.<br>
+      • 🎨 <b>Interactive Canvas &amp; UI:</b> Created dynamic interactive tools like <b>DraWILD</b> focusing on responsive design and fluid user experience.<br>
+      • 🌐 <b>Real-World Problem Solving:</b> Developed civic &amp; safety platforms including hazard detection systems and crowd pass controllers.<br>
+      • ⚡ <b>Clean Code Architecture:</b> Writing modular, maintainable, and type-safe code with modern frontend standards.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p>
+  🎯 <i>"Clean code, pixel-perfect aesthetics, and seamless user experiences."</i>
 </p>
 
 </div>
