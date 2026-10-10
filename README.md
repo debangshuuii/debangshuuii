@@ -2,25 +2,30 @@
 
 <!-- ================= HEADER ================= -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-     width="100%"
-     alt="Animated Header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,45:5B0000,75:8B0000,100:FF3B30&height=210&section=header&text=DEBANGSHU%20SINHA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20%E2%80%A2%20Blender%203D&descAlignY=60&descSize=16&descAlign=50" width="100%" alt="Header Banner" />
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Hi%2C+I'm+Debangshu+Sinha+%F0%9F%91%8B;Frontend+Developer+in+Progress+%F0%9F%92%BB;UI%2FUX+%26+Blender+3D+Learner+%F0%9F%8E%A8;Building+Cool+Things+One+Pixel+at+a+Time+%F0%9F%94%A5"
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF3B30&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Building+Cool+Things+One+Pixel+at+a+Time+%F0%9F%94%A5;Exploring+Interactive+UI+%26+3D+Dimensions+%F0%9F%8E%A8;Always+Coding%2C+Always+Creating+%F0%9F%92%BB"
   alt="Typing Animation"
 />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120000,50:8B0000,100:FF3B30&height=100&section=header"
-     width="100%">
-
 </div>
 
-<!-- ================= ABOUT ME ================= -->
+<!-- ================= CHARACTER STAT SHEET ================= -->
+
+<div align="center">
+
+<h2>⚔️ Operator Dossier // Debangshu.exe</h2>
+
+<p align="center">
+  <img src="./assets/rpg-sheet.svg" width="100%" alt="Cyberpunk RPG Developer Stat Sheet" />
+</p>
+
+</div>
 
 <div align="center">
 
