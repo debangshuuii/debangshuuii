@@ -171,6 +171,22 @@
 
 <br>
 
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+<div align="center">
+
+<h2>🐍 Contribution Activity</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debangshuuii/debangshuuii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debangshuuii/debangshuuii/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/debangshuuii/debangshuuii/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+</div>
+
+<br>
+
 <!-- ================= FOOTER ================= -->
 
 <div align="center">
